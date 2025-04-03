@@ -35,7 +35,7 @@ I hold a **Master's Degree in Software Engineering (2022)** from **[Federal Tech
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-rovanni-%23181717?style=flat&logo=github)](https://github.com/rovanni)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luciano-rovanni-97856846/)  
-✉️ **Email**: [rovanni@gmail.com](mailto:rovanni@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-rovanni%40gmail.com-blue?logo=gmail)](mailto:rovanni@gmail.com)  
 
 ---
 
@@ -78,7 +78,7 @@ Sou **Mestre em Engenharia de Software (2022)** pela **[Universidade Tecnológic
 ## 📫 Conecte-se Comigo  
 [![GitHub](https://img.shields.io/badge/GitHub-rovanni-%23181717?style=flat&logo=github)](https://github.com/rovanni)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luciano-rovanni-97856846/)
-✉️ **E-mail**: [rovanni@gmail.com](mailto:rovanni@gamil.com)  
+[![Email](https://img.shields.io/badge/Email-rovanni%40gmail.com-blue?logo=gmail)](mailto:rovanni@gmail.com)  
 
 ---
 
