@@ -31,7 +31,7 @@ Sou **Mestre em Engenharia de Software (2022)** pela **[Universidade Tecnológic
 
 ## 📫 Conecte-se Comigo  
 [![GitHub](https://img.shields.io/badge/GitHub-rovanni-%23181717?style=flat&logo=github)](https://github.com/rovanni)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rovanni/) *(link personalizado)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luciano-rovanni-97856846/)
 ✉️ **E-mail**: [rovanni@gmail.com](mailto:rovanni@gamil.com)  
 
 ---
