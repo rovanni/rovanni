@@ -1,3 +1,49 @@
+<a name="inicio"></a>
+<a name="english"></a>
+**[English Version](#english)** | **[Versão em Português](#português)**
+# 👋 Hello, I'm Luciano Rovanni do Nascimento!  
+**Welcome to my GitHub profile!** ✨  
+
+💡 Passionate about technology, education, and innovation, I turn ideas into digital solutions and share knowledge to inspire future professionals in the field.  
+
+---
+
+## 🎓 About Me  
+I hold a **Master's Degree in Software Engineering (2022)** from **[Federal Technological University of Paraná (UTFPR)](https://www.utfpr.edu.br)**, a **Bachelor's in Computer Engineering (2004)** from **[UNOPAR](https://www.unopar.com.br)**, and a postgraduate specialization in **Computer Networks and Data Communication (2007)** from **[UEL](https://www.uel.br)**.  
+
+🔧 **Professional Experience:**  
+- **Teaching** in fields like **Computer Science**, **Software Engineering**, and **Systems Analysis and Development**.  
+- **Technical expertise** in **Computer Networks** and **Data Communication** projects.  
+
+---
+
+## 🛠️ Skills and Interests  
+- **Software Engineering**: System architecture, agile methodologies, and software quality.  
+- **Networks and Infrastructure**: Network design, security, and communication optimization.  
+- **Tech Education**: Developing educational materials and mentoring new talent.  
+- **Innovation**: Applied research in emerging technologies and disruptive solutions.  
+
+---
+
+## 🌱 Projects and Contributions  
+- **Academic Repositories**: Shared teaching materials, research projects, and practical tutorials.  
+- **Open Source**: Contributions to initiatives promoting accessible tech education.  
+- **Collaborations**: Always open to innovative partnerships! *(Feel free to reach out!)*  
+
+---
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-rovanni-%23181717?style=flat&logo=github)](https://github.com/rovanni)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luciano-rovanni-97856846/)  
+✉️ **Email**: [rovanni@gmail.com](mailto:rovanni@gmail.com)  
+
+---
+
+✨ **"Transforming lines of code into innovative solutions and sharing knowledge to build a smarter digital future."** ✨  
+
+---
+<a name="português"></a>
+
 # 👋 Olá, sou o Luciano Rovanni do Nascimento!  
 **Bem-vindo(a) ao meu perfil GitHub!** ✨  
 
@@ -37,3 +83,4 @@ Sou **Mestre em Engenharia de Software (2022)** pela **[Universidade Tecnológic
 ---
 
 ✨ **"Transformando linhas de código em soluções inovadoras e compartilhando conhecimento para construir um futuro digital mais inteligente."** ✨
+[⬆️ Back to top](#inicio) | [Voltar ao inicio](#inicio)
