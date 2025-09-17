@@ -5,7 +5,7 @@
 # 👋 Hello, I'm Luciano Rovanni do Nascimento!  
 **Welcome to my GitHub profile!** ✨  
 
-💡 Passionate about technology, education, and innovation, I turn ideas into digital solutions and share knowledge to inspire future professionals in the field.  
+💡 I'm passionate about technology, education, and innovation. I transform ideas into digital solutions and share knowledge to inspire future professionals in the field. 
 
 ---
 
@@ -53,7 +53,7 @@ I hold a **Master's Degree in Computer Science (2022)** from **[Federal Technolo
 # 👋 Olá, sou o Luciano Rovanni do Nascimento!  
 **Bem-vindo(a) ao meu perfil GitHub!** ✨  
 
-💡 Apaixonado por tecnologia, educação e inovação, transformo ideias em soluções digitais e compartilho conhecimento para inspirar futuros profissionais da área.  
+💡 Sou apaixonado por tecnologia, educação e inovação, transformo ideias em soluções digitais e compartilho conhecimento para inspirar futuros profissionais da área.
 
 ---
 
