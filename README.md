@@ -40,8 +40,7 @@ I hold a **Master's Degree in Computer Science (2022)** from **[Federal Technolo
 
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-rovanni-%23181717?style=flat&logo=github)](https://github.com/rovanni)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luciano-rovanni-97856846/)  
-✉️ **Email**: [rovanni@gmail.com](mailto:rovanni@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luciano-rovanni-97856846/) 
 
 ---
 
@@ -89,7 +88,6 @@ Sou **Mestre em Informática (2022)** pela **[Universidade Tecnológica Federal 
 ## 📫 Conecte-se Comigo  
 [![GitHub](https://img.shields.io/badge/GitHub-rovanni-%23181717?style=flat&logo=github)](https://github.com/rovanni)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luciano-rovanni-97856846/)  
-✉️ **Email**: [rovanni@gmail.com](mailto:rovanni@gmail.com)  
 
 ---
 
